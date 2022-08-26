@@ -1,0 +1,15 @@
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/bin/Debug/net6.0/FilesProcessing
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/bin/Debug/net6.0/FilesProcessing.deps.json
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/bin/Debug/net6.0/FilesProcessing.runtimeconfig.json
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/bin/Debug/net6.0/FilesProcessing.dll
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/bin/Debug/net6.0/FilesProcessing.pdb
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/FilesProcessing.csproj.AssemblyReference.cache
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/FilesProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/FilesProcessing.AssemblyInfoInputs.cache
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/FilesProcessing.AssemblyInfo.cs
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/FilesProcessing.csproj.CoreCompileInputs.cache
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/FilesProcessing.dll
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/refint/FilesProcessing.dll
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/FilesProcessing.pdb
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/FilesProcessing.genruntimeconfig.cache
+/Users/Oladipo.Alokan/RiderProjects/PlayingWithFilesAndStreams/src/FilesProcessing/obj/Debug/net6.0/ref/FilesProcessing.dll
